@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ATF/.idea/ATF.iml" filepath="$PROJECT_DIR$/../ATF/.idea/ATF.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
     </modules>
   </component>
